@@ -19,6 +19,8 @@ try {
 } catch (\Exception $e) {
 }
 
+XPT vd " var_dump .. die
+var_dump(`cursor^); die();
 
 
 
